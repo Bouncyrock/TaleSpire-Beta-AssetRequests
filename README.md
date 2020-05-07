@@ -12,6 +12,6 @@ This place is intended for the community to present wishes for tiles, props, and
 We'll be sorting by the :thumbsup:[thumbs up reaction] internally, so this is used to gauge interest.
 
 **Disclaimer:**
-_We do have an internal list of things we want to create, so the items on this list will be treated as wishes. It will help us prioritize, but it could also inspire us to push for things listed here._
+_We do have an internal list of things we want to create, so the items on this list will be treated as wishes. It will help us prioritize, but it could easily inspire us to push for things listed here._
 
 
