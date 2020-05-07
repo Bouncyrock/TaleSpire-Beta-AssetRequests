@@ -11,4 +11,4 @@ This place is intended for the community to present wishes for tiles, props, and
 
 We'll be sorting by the :thumbsup:[thumbs up reaction] internally to gauge interest, but this list will not be a blueprint for what TaleSpire will eventually contain nor in what order assets will be created.
 
-_Thank you all for making requests! _
+_Thank you all for making requests!_
