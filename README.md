@@ -5,7 +5,7 @@ Hi, thank you for checking out The Beta Asset Request hub.
 This place is intended for the community to present wishes for tiles, props, and miniatures. Requests could be extended content for current sets or completely new content. 
 
 **The way this works is:**
- * Go to the `Issues` tab on top. Look/Search through the current "Issues" to see if anything is matching. If it already exists as an entry, you can add a :thumbsup:[thumbs up reaction] to the original message. 
+ * Go to the `Issues` tab on top. Look/Search through the current "Issues" to see if anything is matching the request you want to make. If it already exists as an entry, you can add a :thumbsup:[thumbs up reaction] to the original message. 
 
  * If nothing quite fits, file a new "Issue" and fill in the Template.
 
