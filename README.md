@@ -9,7 +9,6 @@ This place is intended for the community to present wishes for tiles, props, and
 
  * If nothing quite fits, file a new "Issue" and fill in the Template.
 
-We'll be sorting by the :thumbsup:[thumbs up reaction] internally, so this is used to gauge interest.
+We'll be sorting by the :thumbsup:[thumbs up reaction] internally to gauge interest, but this list will not be a blueprint for what TaleSpire will eventually contain nor in what order assets will be created.
 
-**Disclaimer:**
-_Thank you all for making requests. We will be using this list to prioritize what to do when. As well as keep an eye on what the community ultimately wants to see in TaleSpire. This list will not be a blueprint for what TaleSpire will eventually contain nor in what order assets will be created._
+_Thank you all for making requests! _
