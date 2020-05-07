@@ -1,4 +1,4 @@
-<h1>TaleSpire Beta Asset Requests</h>
+<h1>TaleSpire Beta Asset Requests</h1>
 
 Hi, thank you for checking out The Beta Asset Request hub.
 
