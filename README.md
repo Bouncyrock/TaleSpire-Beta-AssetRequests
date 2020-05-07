@@ -1,7 +1,10 @@
-Hi, thank you for stopping by the Asset Request Repo
+Hi, thank you for checking out The Beta Asset Request hub.
 
-Some text
+This is intended to a place for the community to pressent wishes for tiles, props and miniatures. This could be extended content for current sets or completely new content. 
 
-Click on the Issues tab above or just click here
+The way this works is, go to the [Issues] tab on top. Look through the current "Issues" to see if anything matches what you'd want to wish for. If it exists, you can add a [thumbs up Reaction] to the original message. If nothing quite fits, file a new "Issue" and fill in the Template.
 
-Please note that we arent tracking feature requests here. Only things broken in current builds of TaleSpire.
+We'll be sorting by the [thumbs up reaction] internally, so this is used to gague interest.
+
+Disclaimer: 
+We do have a internal list of things we want to create, so things will not happen in the order of these requests. It will help us prioritize however, and deliver on some thing the community really wants.
