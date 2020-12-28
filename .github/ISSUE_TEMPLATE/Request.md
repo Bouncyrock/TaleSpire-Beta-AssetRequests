@@ -10,7 +10,7 @@ assignees: ''
 *What does it look like, how is it used. Paint us a figurative picture.*
 
 
-**Examples (images, videos, something which gets the point across**
+**Examples (images, videos, something which gets the point across)**
 *Or show us a literal picture. That works too.*
 
 
