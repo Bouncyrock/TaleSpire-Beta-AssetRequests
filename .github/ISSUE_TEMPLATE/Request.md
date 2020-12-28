@@ -6,17 +6,17 @@ labels: ''
 assignees: ''
 ---
 
-**Describe the Asset**<br>
+**Describe the Asset**
 *What does it look like, how is it used. Paint us a figurative picture.*
 
 
-**Examples (images, videos, something which gets the point across**<br>
+**Examples (images, videos, something which gets the point across**
 *Or show us a literal picture. That works too.*
 
 
-**Additional context**<br>
+**Additional context**
 *Unburden yourself of thoughts and musings here*
 
 
 <!-- Leave this next line for others to see -->
-**ADD :thumbsup:[thumbs up reaction] to give this request more attention.**
+<br>**ADD :thumbsup:[thumbs up reaction] to give this request more attention.**
