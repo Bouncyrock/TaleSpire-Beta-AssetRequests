@@ -15,7 +15,7 @@ assignees: ''
 
 
 **Additional context**
-*Unburden yourself of thoughts and musings here*
+*Unburden yourself of thoughts and musings here.*
 
 
 <!-- Leave this next line for others to see -->
